@@ -2,6 +2,7 @@
 
 This is a frontend project. Welcome to the landing page of an **AI-Powered Video Editor**! This project is a responsive, interactive landing page that showcases the features of a video editing software integrated with artificial intelligence, designed to help users create and edit videos in seconds. This SaaS landing page includes various sections, animations, and interactive elements to provide an engaging user experience.
 
+---
 
 ## Features & Highlights
 
@@ -10,6 +11,8 @@ This is a frontend project. Welcome to the landing page of an **AI-Powered Video
 - **Interactive Elements**🖱️: The page uses JavaScript to enhance the user experience, such as the interactive pricing toggle and expandable FAQ sections.
 - **SEO Optimized** 🌐 : The page is structured for SEO optimization to ensure better visibility on search engines.
 - **Clean & Modern UI** 🧑‍🎨 : Built with user-friendly design principles to ensure an intuitive and easy-to-navigate layout.
+
+---
 
 ## Project Structure 📂
 
@@ -41,6 +44,8 @@ The landing page is divided into the following 6 sections:
    - The footer is fixed and remains visible while scrolling through the page.
 
 
+---
+
 ## Technologies Used
 
 This project leverages the following technologies:
@@ -54,6 +59,7 @@ This project leverages the following technologies:
 - **clsx**: For conditionally applying CSS class names in React components.
 - **React-CountUp**: For animating numerical values in the pricing section or testimonials.
 
+---
 
 ## How to Run the Project Locally
 
@@ -74,7 +80,9 @@ This project leverages the following technologies:
 
 4. The landing page should now be up and running locally on your machine!
 
-## Contributing
+---
+
+## Contributing 🤝
 
 Feel free to fork the repository and submit pull requests. Here are some guidelines to help you get started:
 
@@ -85,10 +93,30 @@ Feel free to fork the repository and submit pull requests. Here are some guideli
 5. Push to the branch.
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-If you have any questions or issues, feel free to open an issue in the repository or reach out to the project maintainers. Enjoy creating with AI-powered video editing!
+## License 🤝
+
+MIT License
+
+Copyright (c) 2025 Mohammed Maaz Rayeen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
