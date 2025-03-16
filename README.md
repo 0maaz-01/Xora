@@ -45,8 +45,8 @@ The landing page is divided into the following 6 sections:
 
 This project leverages the following technologies:
 
-- **HTML5**: For structuring the landing page content.
-- **CSS3**: For styling and responsive layout.
+- **HTML**: For structuring the landing page content.
+- **CSS**: For styling and responsive layout.
 - **JavaScript**: For interactivity, animations, and DOM manipulation.
 - **React.js**: For building the interactive, component-based structure of the landing page.
 - **TailwindCSS**: A utility-first CSS framework for fast and responsive design.
