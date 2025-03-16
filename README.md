@@ -1,42 +1,42 @@
-# Xora ( Landing Page for AI Video Editor)
+# Xora ( Landing Page for AI Video Editor) 🎬🤖
 
 This is a frontend project. Welcome to the landing page of an **AI-Powered Video Editor**! This project is a responsive, interactive landing page that showcases the features of a video editing software integrated with artificial intelligence, designed to help users create and edit videos in seconds. This SaaS landing page includes various sections, animations, and interactive elements to provide an engaging user experience.
 
 
 ## Features & Highlights
 
-- **Responsive Design**: The landing page is designed to look great on desktops, tablets, and mobile devices.
-- **Smooth Animations**: Includes animated transitions for toggling between pricing plans, expanding FAQs, and navigating sections.
-- **Interactive Elements**: The page uses JavaScript to enhance the user experience, such as the interactive pricing toggle and expandable FAQ sections.
-- **SEO Optimized**: The page is structured for SEO optimization to ensure better visibility on search engines.
-- **Clean & Modern UI**: Built with user-friendly design principles to ensure an intuitive and easy-to-navigate layout.
+- **Responsive Design** 🌈: The landing page is designed to look great on desktops, tablets, and mobile devices.
+- **Smooth Animations** ✨: Includes animated transitions for toggling between pricing plans, expanding FAQs, and navigating sections.
+- **Interactive Elements**🖱️: The page uses JavaScript to enhance the user experience, such as the interactive pricing toggle and expandable FAQ sections.
+- **SEO Optimized** 🌐 : The page is structured for SEO optimization to ensure better visibility on search engines.
+- **Clean & Modern UI** 🧑‍🎨 : Built with user-friendly design principles to ensure an intuitive and easy-to-navigate layout.
 
-## Project Structure
+## Project Structure 📂
 
 The landing page is divided into the following 6 sections:
 
-### 1. **Features Section**
+### 1. **Features Section** 🌟
    - This section highlights the key features of the video editor.
    - The section is designed to provide users with information about the capabilities and benefits of the software.
 
-### 2. **Pricing Section**
+### 2. **Pricing Section**💸
    - Contains pricing plans for both monthly and annual subscriptions.
    - An interactive button allows users to toggle between monthly and yearly prices, with smooth animations.
    - Pricing details are responsive and adjust to various screen sizes.
 
-### 3. **Frequently Asked Questions (FAQ)**
+### 3. Frequently Asked Questions (FAQ)❓
    - A collapsible FAQ section where users can click on a question to expand it and view the answer.
    - Each question-answer pair expands with a smooth animation to improve the user experience.
 
-### 4. **Testimonial Section**
+### 4. **Testimonial Section**🗣
    - Displays user testimonials to build trust and credibility for the product.
    - This section includes reviews from satisfied users to give potential customers a sense of the software's value.
 
-### 5. **Download Section**
+### 5. **Download Section**📲💻
    - Provides download links for different versions of the video editor (desktop, tablet, and phone).
    - This section also showcases logos of the companies that trust and use the software.
    
-### 6. **Footer Section**
+### 6. **Footer Section**📱
    - Contains links to the software's official social media pages for easy access.
    - The footer is fixed and remains visible while scrolling through the page.
 
