@@ -79,10 +79,10 @@ This project leverages the following technologies:
 Feel free to fork the repository and submit pull requests. Here are some guidelines to help you get started:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
+2. Create a new branch.
 3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
+4. Commit your changes.
+5. Push to the branch.
 6. Open a pull request.
 
 ## License
