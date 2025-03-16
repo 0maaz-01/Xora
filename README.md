@@ -50,7 +50,9 @@ The landing page is divided into the following 6 sections:
 
 This project leverages the following technologies:
 
-- **HTML**: For structuring the landing page content.
+ ![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css)  ![My Skills](https://skillicons.dev/icons?i=js) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) <img src="https://github.com/0maaz-01/Alaikoo_PDF_Reader_and_Editor./blob/main/Images/React.png" width="50" height="50">
+
+- **HTML** : For structuring the landing page content.
 - **CSS**: For styling and responsive layout.
 - **JavaScript**: For interactivity, animations, and DOM manipulation.
 - **React.js**: For building the interactive, component-based structure of the landing page.
