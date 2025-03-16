@@ -43,12 +43,17 @@ The landing page is divided into the following 6 sections:
 
 ## Technologies Used
 
-- **HTML**: For structuring the landing page content.
-- **CSS**: For styling and responsive layout.
-- **JavaScript**: For interactivity (animations, toggles, and collapsible FAQs).
-- **React**: For more efficient and modular CSS.
-- **Bootstrap (Optional)**: For layout grid and responsiveness.
-- **FontAwesome**: For icons in social media links and buttons.
+This project leverages the following technologies:
+
+- **HTML5**: For structuring the landing page content.
+- **CSS3**: For styling and responsive layout.
+- **JavaScript**: For interactivity, animations, and DOM manipulation.
+- **React.js**: For building the interactive, component-based structure of the landing page.
+- **TailwindCSS**: A utility-first CSS framework for fast and responsive design.
+- **React-Scroll**: For smooth scrolling and navigation to different sections of the page.
+- **clsx**: For conditionally applying CSS class names in React components.
+- **React-CountUp**: For animating numerical values in the pricing section or testimonials.
+
 
 ## How to Run the Project Locally
 
