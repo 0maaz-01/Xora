@@ -57,30 +57,28 @@ This project leverages the following technologies:
 - **JavaScript**: For interactivity, animations, and DOM manipulation.
 - **React.js**: For building the interactive, component-based structure of the landing page.
 - **TailwindCSS**: A utility-first CSS framework for fast and responsive design.
-- **React-Scroll**: For smooth scrolling and navigation to different sections of the page.
-- **clsx**: For conditionally applying CSS class names in React components.
-- **React-CountUp**: For animating numerical values in the pricing section or testimonials.
+- **React-Scroll**:To implement smooth scrolling and navigation to different sections of the page.
+- **clsx**: Used for constructing className strings conditionally. To change the classNames string dynamically.
+- **CountUp**: Used to switch prices when showing plans for monthly and yearly
+- **Slide Down**: To display the answers with sliding down effect.
 
 ---
 
-## How to Run the Project Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/video-editor-landing-page.git
-   ```
+## Installation
+You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
-2. Navigate to the project directory:
-   ```bash
-   cd video-editor-landing-page
-   ```
+1) React Scroll :
+`npm install react-scroll`
 
-3. Open the `index.html` file in your browser:
-   ```bash
-   open index.html
-   ```
+2) Clsx :
+`npm install clsx`
 
-4. The landing page should now be up and running locally on your machine!
+3) Countup Package :
+`npm install react-countup`
+
+4) Slide Down Package :
+`npm install react-slidedown --legacy-peer-deps`
 
 ---
 
