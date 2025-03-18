@@ -4,6 +4,9 @@ This is a frontend project. Welcome to the landing page of an **AI-Powered Video
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 ## Features & Highlights
 
 - **Responsive Design** 🌈: The landing page is designed to look great on desktops, tablets, and mobile devices.
