@@ -13,14 +13,14 @@ This is a frontend project. Welcome to the landing page of an **AI-Powered Video
 - **Clean & Modern UI** 🧑‍🎨 : Built with user-friendly design principles to ensure an intuitive and easy-to-navigate layout.
 
 ---
-## Responsiveness : 
-[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora2.png" alt="Thumbnail" width="320" height="180">](https://studio.youtube.com/video/mXSQAzwwtSQ/edit)
+## Responsiveness 🌐 : 
+[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora2.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/BfGCA9gOY4w)
 
-## How the website appears on desktop : 
-[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora1.png" alt="Thumbnail" width="320" height="200">](https://studio.youtube.com/video/BfGCA9gOY4w/edit)
+## How the website appears on desktop 💻 : 
+[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora1.png" alt="Thumbnail" width="320" height="200">](https://youtu.be/mXSQAzwwtSQ)
 
-## How the website appears on mobile : 
-[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora3.png" alt="Thumbnail" width="200" height="500">](https://youtube.com/shorts/0zffCc6ATME?feature=share)
+## How the website appears on mobile 📱 : 
+[<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora3.png" alt="Thumbnail" width="220" height="500">](https://youtube.com/shorts/0zffCc6ATME?feature=share)
 ---
 
 ## Project Structure 📂
