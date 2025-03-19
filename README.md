@@ -74,7 +74,7 @@ This project leverages the following technologies:
 ---
 
 
-## Installation
+## Installation 🛠️ :
 You need to install some dependencies using the command terminal so that the code runs smoothly on your device.
 
 1) React Scroll :
@@ -104,7 +104,7 @@ Feel free to fork the repository and submit pull requests. Here are some guideli
 
 ---
 
-## License 🤝
+## License 📜
 
 MIT License
 
