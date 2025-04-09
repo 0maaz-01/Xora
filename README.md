@@ -1,3 +1,7 @@
+# Live Link - https://xora-wheat-beta.vercel.app/
+
+---
+
 # Xora ( Landing Page for AI Video Editor) 🎬🤖
 
 This is a frontend project. Welcome to the landing page of an **AI-Powered Video Editor**! This project is a responsive, interactive landing page that showcases the features of a video editing software integrated with artificial intelligence, designed to help users create and edit videos in seconds. This SaaS landing page includes various sections, animations, and interactive elements to provide an engaging user experience.
