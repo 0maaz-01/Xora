@@ -5,7 +5,7 @@ import { Marker } from "../components/Marker.jsx";
 const Download = () => {
   return (
     <section>
-        <Element
+        <Element 
           name="download"
           className="g7 relative pb-32 pt-24 max-lg:pb-24 max-md:py-16"
         >
