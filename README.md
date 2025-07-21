@@ -49,6 +49,23 @@ The landing page is divided into the following 6 sections:
 
 
 ---
+
+## Screenshots & Demo 📸
+
+### 💻 Desktop View
+
+<img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/A.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/B.png" alt="Thumbnail" width="320" height="180"> 
+<img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/C.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/D.png" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/E.png" alt="Thumbnail" width="320" height="180">  <img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/F.png" alt="Thumbnail" width="320" height="180">
+
+  
+### 📱 Mobile View
+
+<img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/AM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/BM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/CM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/DM.jpg" alt="Thumbnail" width="220" height="500"><img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/EM.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/FM.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Xora/blob/main/ReadMe/JM.jpg" alt="Thumbnail" width="220" height="500">
+
+
+---
 ## Responsiveness 🌐 : ( Click on the image to watch the video )
 [<img src="https://github.com/0maaz-01/Xora/blob/main/public/xora2.png" alt="Thumbnail" width="320" height="180">](https://youtu.be/BfGCA9gOY4w)
 
